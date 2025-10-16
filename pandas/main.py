@@ -2,4 +2,7 @@ import pandas as pd
 
 df = pd.read_csv('orders.csv')
 
-print(df)
+print("check")
+
+
+#push checkout column to the end
