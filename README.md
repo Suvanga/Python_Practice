@@ -4,5 +4,6 @@ This is a basic Python repo for reference in case of future interview opportunit
 This practice was done by watching the following tut
 
 Numpy: https://www.youtube.com/watch?v=VXU4LSAQDSc #Brocode
-Pandas: 
+Pandas: https://www.youtube.com/watch?v=EXIgjIBu4EU
 Matplotlib: https://www.youtube.com/watch?v=2KY5AaFvWtE
+
